@@ -4,7 +4,7 @@
 #include <time.h>
 
 #define MAX_VALUE 1000
-#define NUM_RUNS 100 // Количество запусков
+#define NUM_RUNS 100
 
 int main() {
     int array_size;
